@@ -1,2 +1,2 @@
-# 20190528-MUCPP-OOP
+# 20190528-MUC++-OOP
 Slides to the presentation
